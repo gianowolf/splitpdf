@@ -28,3 +28,6 @@ vendor/
 
 # Output test data
 test/
+splitpdf_linux
+splitpdf_windows.exe
+*.zip
