@@ -1,0 +1,30 @@
+# Go build artifacts
+splitpdf
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Go module cache
+/pkg/
+/bin/
+
+# Dependency directories (if any)
+vendor/
+
+# Editor and system files
+*.log
+*.swp
+*.swo
+.DS_Store
+*.vscode/
+.idea/
+
+# Output test data
+test/
