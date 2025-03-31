@@ -6,8 +6,8 @@
 
 Podés descargar los ejecutables desde la [sección de Releases](https://github.com/gianowolf/splitpdf/releases):
 
-- [`splitpdf_windows.zip`](https://github.com/gianowolf/splitpdf/releases/download/v1.0.0/splitpdf_windows.zip)
-- [`splitpdf_linux.zip`](https://github.com/gianowolf/splitpdf/releases/download/v1.0.0/splitpdf_linux.zip)
+- [`splitpdf_windows.zip`](https://github.com/gianowolf/splitpdf/releases/download/v1.0.0/splitpdf_windows.exe)
+- [`splitpdf_linux.zip`](https://github.com/gianowolf/splitpdf/releases/download/v1.0.0/splitpdf_linux)
 
 Una vez descargado, descomprimir el archivo y ejecutar el binario desde la terminal.
 
